@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.deps.json
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\refint\AM.ApplicationCore.dll
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\Lenovo\Desktop\Esprit\4\sem2\Chap5\Atelier-Chap5-S3\AirportManagement\AM.ApplicationCore\obj\Debug\net8.0\ref\AM.ApplicationCore.dll
